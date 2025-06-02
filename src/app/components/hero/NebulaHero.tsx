@@ -41,18 +41,15 @@ const NebulaHero: React.FC = () => {
         <div ref={dot4Ref} className="orbit-dot ring2" />
       </div>
 
-      {/* LIVE Button */}
+      <h1 className="nebula-text">NEBULA</h1>
+
       <div className="live-button-wrapper">
-        <button className="live-button">
+        <button className="live-button" disabled>
           <span className="green-dot" />
           <span className="live-text">Live</span>
           <span className="live-date">02/06/2025</span>
         </button>
       </div>
-
-      <h1 className="nebula-text">
-        <span className="nebula-highlight"></span>NEBULA
-      </h1>
     </div>
   );
 };
