@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
         <div className="footer-section">
           <h3>About SAST</h3>
           <p>
-            The Society for Astrophysics and Space Technology (SAST) at Rishihood University fosters innovation in space exploration, satellite tech, and astrophysics. We aim to empower students with hands-on experience and cosmic curiosity.
+            The Society for Aerospace and Space Technology (SAST) at Rishihood University fosters innovation in space exploration, satellite tech, and aerospace. We aim to empower students with hands-on experience and cosmic curiosity.
           </p>
         </div>
 
